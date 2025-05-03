@@ -102,6 +102,40 @@ def create_metrics_dict(distance: list, calories: list, resistance: list, time: 
     return metrics_dict
 
 
+def metric_average(metric: list):
+    """Take average of metrics where not empty
+
+    Args:
+        metric (list)
+
+    Returns:
+        average (float)
+    """
+
+    metric_list = [x for x in metric if x != ""]
+    return np.mean(metric_list)
+
+
+def metric_average_by_resistance(metric: list, resistance: list, match_resistance: float):
+    """Take average of metrics where not empty
+
+    Args:
+        metric (list)
+        resistance (list)
+        match_resistance (list)
+
+    Returns:
+        average (float)
+    """
+
+    metric_list = []
+    for i in range(len(metric)):
+        if resistance[i] == match_resistance and metric[i] != "":
+            metric_list.append(metric[i])
+
+    return np.mean(metric_list)
+
+
 def metric_average_per_time_by_resistance(metric: list, time: list, resistance: list, match_resistance: float):
     """Take average of metrics where not empty
 
