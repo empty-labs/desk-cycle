@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="Cleaned up unused functions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +32,37 @@
       <option name="presentableId" value="Default" />
       <updated>1746302831653</updated>
     </task>
+    <task id="LOCAL-00001" summary="Resolved utils files">
+      <created>1746303260781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746303260782</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Cleaned up unused functions">
+      <created>1746303467232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746303467232</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Resolved utils files" />
+    <MESSAGE value="Cleaned up unused functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up unused functions" />
   </component>
 </project>
