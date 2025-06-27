@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="updating workspace" />
+    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="Added new rows for spring 2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1746364428919</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added new rows for spring 2025">
+      <created>1748814428656</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748814428657</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +78,7 @@
     <MESSAGE value="Resolved utils files" />
     <MESSAGE value="Cleaned up unused functions" />
     <MESSAGE value="added yml" />
-    <option name="LAST_COMMIT_MESSAGE" value="added yml" />
+    <MESSAGE value="Added new rows for spring 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new rows for spring 2025" />
   </component>
 </project>
