@@ -60,10 +60,13 @@ def interpolate_distance(distance: list, calories: list, resistance: list, time:
     """
 
     for i in range(len(distance)):
-        if distance[i] == "":
-            if calories[i] == "":
-                calories[i] = metrics_dict[resistance[i]]["calories_per_time"] * time[i]
 
+        # Missing calories
+        if calories[i] == "":
+            calories[i] = metrics_dict[resistance[i]]["calories_per_time"] * time[i]
+
+        # Missing distance
+        if distance[i] == "":
             distance[i] = metrics_dict[resistance[i]]["distance_per_calorie"] * calories[i]
 
     return distance, calories
