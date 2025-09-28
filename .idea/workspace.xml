@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="Added early summer rows">
-      <change beforePath="$PROJECT_DIR$/Desk Cycle Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Desk Cycle Notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/exercise_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/exercise_utils.py" afterDir="false" />
-    </list>
+    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="Added mid summer 2025 rows" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="DC-4-resolve-missing-calories" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1753536137497</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added mid summer 2025 rows">
+      <created>1755970630009</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755970630009</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +108,7 @@
     <MESSAGE value="Added new rows for spring 2025" />
     <MESSAGE value="Added new rows for late spring 2025" />
     <MESSAGE value="Added early summer rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added early summer rows" />
+    <MESSAGE value="Added mid summer 2025 rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added mid summer 2025 rows" />
   </component>
 </project>

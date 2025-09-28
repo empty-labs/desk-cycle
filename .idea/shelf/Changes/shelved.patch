@@ -1,0 +1,49 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3\" name=\"Changes\" comment=\"Added early summer rows\">\n      <change beforePath=\"$PROJECT_DIR$/Desk Cycle Notebook.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Desk Cycle Notebook.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/Tools/exercise_utils.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Tools/exercise_utils.py\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2wbGOfQIRYHkDcZxSDLeDhzffsQ\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"Git.Branch.Popup.ShowAllRemotes\" value=\"true\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3\" name=\"Changes\" comment=\"\" />\n      <created>1746302831653</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1746302831653</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Resolved utils files\">\n      <created>1746303260781</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1746303260782</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Cleaned up unused functions\">\n      <created>1746303467232</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1746303467232</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"added yml\">\n      <created>1746364428919</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1746364428919</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Added new rows for spring 2025\">\n      <created>1748814428656</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1748814428657</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Added new rows for late spring 2025\">\n      <created>1751035175683</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1751035175684</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Added early summer rows\">\n      <created>1753536137496</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1753536137497</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Resolved utils files\" />\n    <MESSAGE value=\"Cleaned up unused functions\" />\n    <MESSAGE value=\"added yml\" />\n    <MESSAGE value=\"Added new rows for spring 2025\" />\n    <MESSAGE value=\"Added new rows for late spring 2025\" />\n    <MESSAGE value=\"Added early summer rows\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Added early summer rows\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 24b7a232328cf3cd2ffef587b1c0221b9f316c86)
++++ b/.idea/workspace.xml	(date 1755970491236)
+@@ -1,9 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="Added early summer rows">
+-      <change beforePath="$PROJECT_DIR$/Desk Cycle Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Desk Cycle Notebook.ipynb" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Tools/exercise_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tools/exercise_utils.py" afterDir="false" />
++    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="Resolved missing calories issue">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Data/DeskCycle.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DeskCycle.csv" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -83,7 +83,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1753536137497</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="Resolved missing calories issue">
++      <created>1753542314675</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1753542314676</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -104,6 +111,7 @@
+     <MESSAGE value="Added new rows for spring 2025" />
+     <MESSAGE value="Added new rows for late spring 2025" />
+     <MESSAGE value="Added early summer rows" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Added early summer rows" />
++    <MESSAGE value="Resolved missing calories issue" />
++    <option name="LAST_COMMIT_MESSAGE" value="Resolved missing calories issue" />
+   </component>
+ </project>
+\ No newline at end of file
