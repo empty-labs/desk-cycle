@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="added late summer 2025 rows">
-      <change beforePath="$PROJECT_DIR$/.idea/desk-cycle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/desk-cycle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DeskCycle.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DeskCycle.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desk Cycle Notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Desk Cycle Notebook.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="added early fall 2025 rows" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759066584528</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="added early fall 2025 rows">
+      <option name="closed" value="true" />
+      <created>1760625247345</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760625247345</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +178,7 @@
     <MESSAGE value="Added mid summer 2025 rows" />
     <MESSAGE value="quick shelf update" />
     <MESSAGE value="added late summer 2025 rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="added late summer 2025 rows" />
+    <MESSAGE value="added early fall 2025 rows" />
+    <option name="LAST_COMMIT_MESSAGE" value="added early fall 2025 rows" />
   </component>
 </project>
