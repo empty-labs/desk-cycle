@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="added token to workspace">
+    <list default="true" id="5a8c78cc-f777-4ef8-aee8-2bbd317dcbb3" name="Changes" comment="added mid fall 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/DeskCycle.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/DeskCycle.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760625805520</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added mid fall 2025">
+      <option name="closed" value="true" />
+      <created>1762440992136</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762440992136</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +186,7 @@
     <MESSAGE value="added late summer 2025 rows" />
     <MESSAGE value="added early fall 2025 rows" />
     <MESSAGE value="added token to workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="added token to workspace" />
+    <MESSAGE value="added mid fall 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="added mid fall 2025" />
   </component>
 </project>
